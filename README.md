@@ -3,7 +3,7 @@
 
 The [book's accompanying wiki pages](https://github.com/madhusudhankonda/elasticsearch-in-action/wiki) explains the code examples 
 
-Here's the TOC
+Here's the TOC 
 
 1. Overview
 2. [Getting Started](https://github.com/madhusudhankonda/elasticsearch-in-action/wiki/Ch-2:-Getting-Started)
